@@ -71,7 +71,7 @@ export default ({authToken, logout}) => {
             {
               name: 'Ian Macdonald',
               email: 'ickphum@gmail.com',
-              repoUrl: '',
+              repoUrl: 'https://github.com/ickphum/meldcx-test',
               message: "They laughed at me when I said I was going to try stand-up comedy. Well, they're not laughing now.",
             },
             authToken)
